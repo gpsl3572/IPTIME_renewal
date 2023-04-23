@@ -1,0 +1,37 @@
+.sec3{
+    width: 100vw;
+    padding-left: 200px;
+    padding-right: 200px;
+    box-sizing: border-box;
+}
+
+.sec3 .title_box{
+   margin-bottom: 70px;
+}
+
+.sec3_conwrap{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec3_con{
+    width: 47%;
+}
+
+.sec3_conimgbox{
+    width: 100%;
+    border: 1px solid #eeeeee;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.sec3_contextbox{
+    font-size: 1.3em;
+    font-weight: 900;
+    line-height: 30px;
+    margin-top: 25px;
+}
+
+

@@ -1,0 +1,31 @@
+.sec2{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 150px;
+}
+
+.sec2 .title_box{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.txt{
+    margin: 100px 0;
+    font-size: 1.5em;
+    line-height: 33px;
+    margin-left: 100px;
+    font-weight: 400;
+}
+
+.sec2_menu{
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: 900;
+}
+
+.sec2_menu li{
+    border-top: 1px solid #e4e4e4;
+    padding: 20px 0;
+}
+.sec2_menu li:last-child{
+    border-bottom: 1px solid #e4e4e4;
+}

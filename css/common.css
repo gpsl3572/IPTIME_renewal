@@ -1,0 +1,17 @@
+
+
+.sec{
+    padding: 120px 80px;
+    box-sizing: border-box;
+}
+
+.title_box .title{
+    font-size: 2.5em;
+    text-transform: uppercase;
+}
+
+.small_title{
+    font-size: 1.3em;
+    color: #bebebe;
+    margin-bottom: 20px;
+}
